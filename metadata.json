@@ -1,0 +1,6 @@
+{
+  "name": "Sabiluna - Sistem Manajemen Masjid",
+  "description": "Sistem Informasi Manajemen Masjid modern & responsif dengan pembukuan kas, inventaris, manajemen jamaah, import-export Excel, autentikasi JWT, dan perlindungan SQL injection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
